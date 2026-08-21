@@ -1,0 +1,7 @@
+Nexus Application
+=================
+
+replicas=3
+image=nexus:v1
+environment=development
+status=running
