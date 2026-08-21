@@ -1,7 +1,7 @@
 Nexus Application
 =================
 
-replicas=5
+replicas=3
 image=nexus:v1
 environment=development
 status=running
