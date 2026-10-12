@@ -1,5 +1,7 @@
 # Nexus GitOps State Exercise
 
+> **Portfolio navigation:** [Browse my featured Cloud & DevOps projects](https://github.com/UyiGodfrey/nexus-devops-platform/blob/main/PORTFOLIO.md).
+
 A small, manual exercise for comparing declared application state with observed state.
 
 ## Files
